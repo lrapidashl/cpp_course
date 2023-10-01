@@ -1,6 +1,6 @@
-#include <D:/CppDistro/MinGW/include/SFML/Graphics.hpp>
-#include <D:/CppDistro/MinGW/include/SFML/System.hpp>
-#include <D:/CppDistro/MinGW/include/SFML/Window.hpp>
+#include <Graphics.hpp>
+#include <System.hpp>
+#include <Window.hpp>
 
 int main()
 {
